@@ -12,7 +12,9 @@ node server
 ### Client
 ````
 cd client
-python3 -m http.server 8000
+npm install gulp-cli -g
+npm i
+gulp
 ````
 
 ## All rights for original source code belongs to Udacity.
